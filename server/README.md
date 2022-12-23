@@ -66,7 +66,6 @@ npm start
 
 
 
-
 ### todo
 - [X]  Server setup
 - [X]  DB setup
